@@ -1,0 +1,41 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+h1 {
+  padding: 5px;
+  margin-top: 0px;
+  background-color: #92543c;
+  color: #c99877;
+}
+/*  */
+#container {
+  background-image: url("images/photo.jpg");
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  display: block;
+  justify-content: center;
+}
+
+#quote {
+  text-align: center;
+}
+
+#text {
+  background-color: #e6bd98;
+  color: #664a42;
+  display: inline-block;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 50px;
+}
+
+#btn {
+  background-color: #bd765b;
+  color: #92543c;
+  border: none;
+  display: block;
+  height: 30px;
+  margin: 10px auto;
+}
