@@ -5,10 +5,12 @@
 -clean background
 -clean UI
 
-##Tech used
--html
--css
--javascript
+## Tech used
 
-##live demo
+html
+css
+javascript
+
+## live demo
+
 https://inspirationalllquotes.netlify.app
